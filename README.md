@@ -7,8 +7,19 @@ configured tailwindCss
 - create React app
 - cofigured TailwindCss
 - Header
+- Routing ogf App
 - Login Form
--signup Form
+- signup Form
+- Form Validation
+- useRef Hook
+- firebase setup
+- deploying app our production
+- create signup user account
+- implement sign in user api
+- created redux store with userSlice
+- implemeted sign out
+- updated profile
+- Fetch from TMDB Movies
 
 
 # features
