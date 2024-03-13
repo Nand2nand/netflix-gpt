@@ -34,6 +34,7 @@ configured tailwindCss
 - Update Store with Trailer Video Data
 - Embedded the youtube video and make it autoplay and mute
 - Tailwind classes to make it look awesome
+- Build secondary component
 
 
 
