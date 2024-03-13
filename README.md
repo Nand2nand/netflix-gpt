@@ -35,6 +35,11 @@ configured tailwindCss
 - Embedded the youtube video and make it autoplay and mute
 - Tailwind classes to make it look awesome
 - Build secondary component
+- Build Movie List
+- Build Movie card
+- TMDB Image CDN URL
+- MADE The Browse page amazing with tailwind css
+- usePopularMovies Custom hook
 
 
 
